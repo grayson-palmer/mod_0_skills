@@ -1,0 +1,15 @@
+Class: Entree
+
+Attributes:
+- proteinType(string)
+- vegetarian(boolean)
+- spiceLevel(int)
+- dishName(string)
+- price(float)
+- cost(float)
+
+Methods:
+- profitMargin(price - cost, assesses amount made based on price and cost)
+- updateName(dishName = x, updates the dishName with entered variable)
+- makeVegetarian(vegetarian = True, sets the vegetarian flag to True/False)
+- setSpiceLevel(spiceLevel = x, Modifies the spiceLevel attribute scale 1-5)
