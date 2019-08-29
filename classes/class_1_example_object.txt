@@ -1,0 +1,16 @@
+Class: Entree
+
+Object: Peanut Curry
+Attributes:
+- proteinType(array) = ["Chicken", "Beef", "Vegetables", "Tofu"]
+- vegetarian(boolean) = False
+- spiceLevel(int) = 3
+- dishName(string) = "Peanut Curry"
+- price(float) = 10.99
+- cost(float) = 5.50
+
+Methods:
+- profitMargin(price - cost, 10.99 - 5.50) = 5.49
+- updateName("Spicy Peanut Curry") = "Spicy Peanut Curry"
+- makeVegetarian(vegetarian = True) = True (Meaning can be made vegetarian)
+- setSpiceLevel(spiceLevel = 5) = 5
