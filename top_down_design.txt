@@ -1,0 +1,48 @@
+Becoming a Turing Student
+
+1. Research Turing
+  1.1 What is Turing?
+    1.1.1 Read information on Turing website
+      1.1.1.1 Read FE and BE program descriptions
+      1.1.1.2 Read outcome reports
+    1.1.2 Find external information and reviews
+      1.1.2.1 Read information and reviews on CourseReport.com
+      1.1.2.2 Find graduates on LinkedIn and contact them regarding experience
+  1.2 Is Turing right for me?
+    1.2.1 Look up Turing's vision/mission
+      If vision aligns with positive/supportive environment
+        1.2.1.1 Positive point, continue on
+      Else
+        1.2.1.1 Re-assess if right for me
+    1.2.2 Duration of the program
+      If duration_time > 3 months
+        1.2.2.1 Validates want of longer term program, continue
+      Else
+        1.2.2.1 Re-assess if right for me
+    1.2.3 How does Turing operate?
+      If Operations are transparent and student_focused > profit_focused
+        1.2.3.1 Validates, continue with program
+      Else
+        1.2.3.1 Re-assess if right for me
+2. Application Process
+  2.1 Go to apply.turing.io and create login
+  2.2 Watch the enrollment video
+  2.3 Initial Application
+    2.3.1 Complete Basics and Contact information
+    2.3.2 Complete work history
+    2.3.3 Complete the problem solving/logic quiz
+  2.4 Interview
+  If received_interview_invitation = True
+    2.4.1 Schedule Interview, continue
+  Else
+    2.4.1 Break, See how to improve and if possible to reapply
+    2.4.2 Have Interview
+      2.4.2.1 Talk about self and history
+      2.4.2.2 Complete LSAT logic assessment
+      2.4.2.3 Ask questions
+3. Enrollment Process
+  3.1 Complete enrollment forms
+  3.2 Find Mod0 session that matches Schedule
+  3.3 Pay tuition
+    3.3.1 Research payment assistance and loans
+    3.3.2 Determine finance needs
