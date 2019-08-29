@@ -1,7 +1,7 @@
 Class: Entree
 
 Attributes:
-- proteinType(string)
+- proteinType(array)
 - vegetarian(boolean)
 - spiceLevel(int)
 - dishName(string)
