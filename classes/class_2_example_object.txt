@@ -1,0 +1,16 @@
+Class: Beverages
+
+Object: Coca-Cola
+Attributes:
+- bevName(string) = Coca-Cola
+- carbonated(boolean) = True
+- caffeinated(boolean) = True
+- amtInStock(float) = 1.5
+- price(float) = 2.49
+- onOrder(boolean) = False
+
+Methods:
+- changeBevName(bevName = "Coca-Cola Classic") == "Coca-Cola Classic"
+- orderStock(if amtInStock < 2 then onOrder = True) == onOrder = True
+- setCarbonation(carbonated = True/False) == True
+- setPrice(price = 1.99) == price = 1.99
