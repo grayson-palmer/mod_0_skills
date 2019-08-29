@@ -1,0 +1,16 @@
+Class: Beverages
+
+Attributes:
+- bevName(string)
+- carbonated(boolean)
+- caffeinated(boolean)
+- amtInStock(float)
+- price(float)
+- onOrder(boolean)
+
+Methods:
+- changeBevName(bevName = "", updates the bevName attribute)
+- orderStock(if amtInStock < 2 then onOrder = True, sets flag to order
+    more if amInStock below hard coded level)
+- setCarbonation(carbonated = True/False, to set beverage as carbonated or not)
+- setPrice(price = x, changes the price of the beverage)
